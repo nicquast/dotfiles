@@ -5,4 +5,4 @@
 - vim
 
 ## dependencies:
-vimrc installs using vim-plug
+vimrc installs plugins using vim-plug
